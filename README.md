@@ -1,5 +1,7 @@
 # README
 
+This repo has been archived, current updates are at [seandavi/curatedMetagenomicsNextflow](https://github.com/seandavi/curatedMetagenomicsNextflow)
+
 ## The pipeline, in brief
 
 - fastq-dump
